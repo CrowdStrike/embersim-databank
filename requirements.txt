@@ -1,0 +1,15 @@
+xgboost
+pandas
+numpy
+numba
+tqdm
+loguru
+pyarrow
+toolz
+textdistance
+scikit-learn
+
+# original EMBER and its requirements
+git+https://github.com/elastic/ember.git
+lief==0.9.0
+lightgbm>=2.2.3
