@@ -104,3 +104,7 @@ Evaluation metrics are implemented in `evaluation.py`.
 - Original EMBER repo: https://github.com/elastic/ember
 - AVClass: https://github.com/malicialab/avclass
 - VirusTotal: https://www.virustotal.com/
+
+## Support statement
+
+EMBERSim is an open source project, not a CrowdStrike product. As such, it carries no formal support, expressed or implied.

@@ -21,6 +21,7 @@ We have multiple avenues to receive security-related vulnerability reports.
 Please report suspected security vulnerabilities by:
 
 * Submitting an [issue](https://github.com/CrowdStrike/embersim-databank/issues/new).
+* Starting a new [discussion](https://github.com/CrowdStrike/embersim-databank/discussions).
 * Submitting a [pull request](https://github.com/CrowdStrike/embersim-databank/pulls) to potentially resolve the issue.
 * Sending an email to __dsci-oss@crowdstrike.com__.
 
