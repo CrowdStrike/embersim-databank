@@ -26,7 +26,7 @@ Check the source for details about the required arguments.
 
 ### Get the top 100 most similar entries for any sample
 
-This is a time consuming task. As so, we devided the process into two steps:
+This is a time consuming task. As so, we divided the process into two steps:
 
 1. With `src/leaf_similarity/leaf_pred_top_100_search.py` you can:
 - generate the top 100 similar hits for different `query` vs `knowledge base` combinations, such as: test vs train + test, unlabelled vs train, unlabelled vs train + test
